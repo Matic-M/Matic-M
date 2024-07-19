@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🚀 What I'm Currently Learning
+
+- 🌐 **Web Development**: React
+- 🐍 **Python**: Django
 <!--
 **Matic-M/Matic-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
